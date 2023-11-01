@@ -1,0 +1,30 @@
+.wrapper {
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.header {
+  padding: 50px;
+  text-align: center;
+}
+
+.btn-container {
+  padding: 15px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.help {
+  width: 100%;
+  text-align: center;
+  background-color: transparent;
+  border-color: #ccc;
+  color: #ccc;
+}
