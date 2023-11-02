@@ -260,16 +260,6 @@ export default {
                 backgroundColor: '#ec7211'
             },
             {
-                label: 'Browser APIs',
-                type: 'line',
-                fill: false,
-                data: [
-                    30, 43, 56, 75, 80
-                ],
-                borderColor: '#6308ac',
-                backgroundColor: '#6308ac'
-            },
-            {
                 label: 'Date-fns',
                 type: 'line',
                 fill: false,
