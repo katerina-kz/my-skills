@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <div className='header'>
             <h1>
-                <Badge bg="secondary">My Skill Set</Badge>
+                <Badge bg="secondary">My Skills</Badge>
             </h1>
         </div>
     )
