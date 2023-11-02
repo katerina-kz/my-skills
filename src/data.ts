@@ -30,16 +30,6 @@ export default {
                 backgroundColor: 'red'
             },
             {
-                label: 'TypeScript',
-                type: 'line',
-                fill: false,
-                data: [
-                    0, 0, 0, 68, 80
-                ],
-                borderColor: '#3178c6',
-                backgroundColor: '#3178c6'
-            },
-            {
                 label: 'React',
                 type: 'line',
                 fill: false,
@@ -48,6 +38,26 @@ export default {
                 ],
                 borderColor: 'rgb(97 218 251)',
                 backgroundColor: 'rgb(97 218 251)'
+            },
+            {
+                label: 'Redux',
+                type: 'line',
+                fill: false,
+                data: [
+                    0, 35, 45, 55, 60
+                ],
+                borderColor: '#764ABF',
+                backgroundColor: '#764ABF'
+            },
+            {
+                label: 'TypeScript',
+                type: 'line',
+                fill: false,
+                data: [
+                    0, 0, 0, 68, 80
+                ],
+                borderColor: '#3178c6',
+                backgroundColor: '#3178c6'
             },
             {
                 label: 'Node.js',
@@ -68,36 +78,6 @@ export default {
                 ],
                 borderColor: '#555',
                 backgroundColor: '#555'
-            },
-            {
-                label: 'JavaScript Development Tools',
-                type: 'line',
-                fill: false,
-                data: [
-                    15, 40, 65, 74, 80,
-                ],
-                borderColor: '#eee',
-                backgroundColor: '#eee'
-            },
-            {
-                label: 'Redux',
-                type: 'line',
-                fill: false,
-                data: [
-                    0, 35, 45, 55, 60
-                ],
-                borderColor: '#764ABF',
-                backgroundColor: '#764ABF'
-            },
-            {
-                label: 'JavaScript Top Frameworks',
-                type: 'line',
-                fill: false,
-                data: [
-                    0, 25, 45, 60, 80
-                ],
-                borderColor: 'rgb(97 218 251)',
-                backgroundColor: 'white'
             },
             {
                 label: 'React Router',
@@ -178,6 +158,26 @@ export default {
                 ],
                 borderColor: '#942d60',
                 backgroundColor: '#942d60'
+            },
+            {
+                label: 'Playwright',
+                type: 'line',
+                fill: false,
+                data: [
+                    0, 0, 0, 54, 63
+                ],
+                borderColor: '#e81811',
+                backgroundColor: '#e81811'
+            },
+            {
+                label: 'Nightwatch',
+                type: 'line',
+                fill: false,
+                data: [
+                    0, 0, 12, 40, 40
+                ],
+                borderColor: '#257d0d',
+                backgroundColor: '#257d0d'
             },
             {
                 label: 'MongoDB/Mongoose',
@@ -270,56 +270,6 @@ export default {
                 backgroundColor: '#6308ac'
             },
             {
-                label: 'JavaScript in Browser',
-                type: 'line',
-                fill: false,
-                data: [
-                    0, 32, 43, 75, 80
-                ],
-                borderColor: '#6308ac',
-                backgroundColor: '#6308ac'
-            },
-            {
-                label: 'JavaScript Top Frameworks',
-                type: 'line',
-                fill: false,
-                data: [
-                    0, 24, 37, 58, 80
-                ],
-                borderColor: '#6308ac',
-                backgroundColor: '#6308ac'
-            },
-            {
-                label: 'Software Engineering Knowledge & Experience',
-                type: 'line',
-                fill: false,
-                data: [
-                    0, 34, 38, 56, 80
-                ],
-                borderColor: '#6308ac',
-                backgroundColor: '#6308ac'
-            },
-            {
-                label: 'JavaScript Cross-Mobile Platform',
-                type: 'line',
-                fill: false,
-                data: [
-                    6, 17, 27, 39, 45
-                ],
-                borderColor: '#6308ac',
-                backgroundColor: '#6308ac'
-            },
-            {
-                label: 'JavaScript Desktop Platform',
-                type: 'line',
-                fill: false,
-                data: [
-                    6, 27, 35, 39, 45
-                ],
-                borderColor: '#6308ac',
-                backgroundColor: '#6308ac'
-            },
-            {
                 label: 'Date-fns',
                 type: 'line',
                 fill: false,
@@ -328,6 +278,26 @@ export default {
                 ],
                 borderColor: '#ac080d',
                 backgroundColor: '#ac080d'
+            },
+            {
+                label: 'Next.JS',
+                type: 'line',
+                fill: false,
+                data: [
+                    0, 0, 0, 15, 25
+                ],
+                borderColor: '#08ac86',
+                backgroundColor: '#08ac86'
+            },
+            {
+                label: 'CI/CD',
+                type: 'line',
+                fill: false,
+                data: [
+                    0, 0, 20, 28, 49
+                ],
+                borderColor: '#5208ac',
+                backgroundColor: '#5208ac'
             },
         ]
     },
